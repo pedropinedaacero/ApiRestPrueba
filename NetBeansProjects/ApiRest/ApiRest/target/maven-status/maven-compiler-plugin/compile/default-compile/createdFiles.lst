@@ -1,0 +1,16 @@
+com\entidades\Ciudad.class
+com\service\ActivoService.class
+com\entidades\Activo.class
+com\entidades\Encargado_.class
+com\entidades\Persona.class
+com\entidades\Estado_.class
+com\entidades\Ciudad_.class
+com\example\DemoApplication.class
+com\entidades\Area.class
+com\entidades\Area_.class
+com\entidades\Persona_.class
+com\entidades\RepositorioActivos.class
+com\entidades\Estado.class
+com\entidades\Encargado.class
+com\controller\ControladorActivos.class
+com\entidades\Activo_.class
